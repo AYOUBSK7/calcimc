@@ -30,6 +30,17 @@ TP Android Studio, Licence DSI, ISET.
 |---|---|
 | ![Calcul valide](image/Screenshot_20261015_195516.png) | ![Erreur de saisie](image/Screenshot_20261015_195642.png) |
 
+## Travail à rendre
+
+Le dossier [`rendu`](rendu) regroupe les éléments demandés :
+
+- `activity_main.xml`
+- `MainActivity.kt`
+- `strings.xml`
+- `Compte_rendu_TP_CalculIMC.pdf`
+
+Les captures d'écran se trouvent dans le dossier [`image`](image).
+
 ## Fichiers principaux
 
 - `app/src/main/res/layout/activity_main.xml` : interface
@@ -41,3 +52,7 @@ TP Android Studio, Licence DSI, ISET.
 1. Cloner le dépôt puis l'ouvrir avec Android Studio.
 2. Attendre la fin de la synchronisation Gradle.
 3. Lancer l'application sur un émulateur ou un téléphone (API 24 minimum).
+
+## Remarque
+
+L'IMC est utilisé ici comme support de programmation. Son interprétation ne remplace pas un avis médical.
