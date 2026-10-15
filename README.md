@@ -2,7 +2,6 @@
 
 Application Android (Kotlin) qui calcule l'indice de masse corporelle (IMC) à partir du poids et de la taille saisis par l'utilisateur, puis affiche la valeur obtenue et une catégorie colorée.
 
-TP Android Studio, Licence DSI, ISET.
 
 ## Fonctionnalités
 
