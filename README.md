@@ -52,6 +52,3 @@ Les captures d'écran se trouvent dans le dossier [`image`](image).
 2. Attendre la fin de la synchronisation Gradle.
 3. Lancer l'application sur un émulateur ou un téléphone (API 24 minimum).
 
-## Remarque
-
-L'IMC est utilisé ici comme support de programmation. Son interprétation ne remplace pas un avis médical.
