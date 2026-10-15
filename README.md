@@ -41,7 +41,3 @@ TP Android Studio, Licence DSI, ISET.
 1. Cloner le dépôt puis l'ouvrir avec Android Studio.
 2. Attendre la fin de la synchronisation Gradle.
 3. Lancer l'application sur un émulateur ou un téléphone (API 24 minimum).
-
-## Remarque
-
-L'IMC est utilisé ici comme support de programmation. Son interprétation ne remplace pas un avis médical.
